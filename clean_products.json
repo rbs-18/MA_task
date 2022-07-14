@@ -1,0 +1,664 @@
+{
+    "MOW": [
+        {
+            "id": "3405527",
+            "title": "Конструктор LEGO DUPLO My First Поезд для животных 10955",
+            "price": {
+                "price": 1909,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1329,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405527/"
+        },
+        {
+            "id": "3596786",
+            "title": "Конструктор LEGO Friends Волшебная акробатика 41686",
+            "price": {
+                "price": 2029,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1299,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596786/"
+        },
+        {
+            "id": "3405588",
+            "title": "Конструктор LEGO City Great Vehicles Отпуск в доме на колесах 60283",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405588/"
+        },
+        {
+            "id": "3187781",
+            "title": "Конструктор LEGO Minecraft Шахта крипера 21155",
+            "price": {
+                "price": 8989,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3187781/"
+        },
+        {
+            "id": "618981",
+            "title": "Конструктор LEGO Classic Строительная пластина зеленого цвета (10700)",
+            "price": {
+                "price": 829,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/618981/"
+        },
+        {
+            "id": "3244569",
+            "title": "Конструктор LEGO Super Mario Приключения вместе с Марио 71360",
+            "price": {
+                "price": 5989,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 3979,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3244569/"
+        },
+        {
+            "id": "3430415",
+            "title": "Конструктор LEGO Technic Jeep Wrangler 42122",
+            "price": {
+                "price": 5629,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3430415/"
+        },
+        {
+            "id": "4058546",
+            "title": "Конструктор LEGO Disney Princess 43201",
+            "price": {
+                "price": 2029,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/4058546/"
+        },
+        {
+            "id": "3244472",
+            "title": "Конструктор LEGO DUPLO Грузовик и гусеничный экскаватор 10931",
+            "price": {
+                "price": 2109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3244472/"
+        },
+        {
+            "id": "3596713",
+            "title": "Конструктор LEGO Mickey and Friends Магазин мороженого Минни 10773",
+            "price": {
+                "price": 1909,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596713/"
+        },
+        {
+            "id": "3405628",
+            "title": "Конструктор LEGO Ninjago Легендарные битвы: Кай против Армии скелетов 71730",
+            "price": {
+                "price": 949,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405628/"
+        },
+        {
+            "id": "3239916",
+            "title": "Набор для творчества LEGO DOTS Браслет Попугайчики 41912",
+            "price": {
+                "price": 529,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 299,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3239916/"
+        },
+        {
+            "id": "3405596",
+            "title": "Конструктор LEGO Super Heroes Воздушное нападение Вечных 76145",
+            "price": {
+                "price": 1189,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3405596/"
+        },
+        {
+            "id": "3597021",
+            "title": "Конструктор LEGO Star Wars Дуэль на Мандалоре 75310",
+            "price": {
+                "price": 2149,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3597021/"
+        },
+        {
+            "id": "3597052",
+            "title": "Конструктор LEGO Jurassic World Скелет тираннозавра на выставке 76940",
+            "price": {
+                "price": 3349,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3597052/"
+        },
+        {
+            "id": "3597048",
+            "title": "Конструктор LEGO Speed Champions McLaren Elva 76902",
+            "price": {
+                "price": 2149,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3597048/"
+        },
+        {
+            "id": "3405595",
+            "title": "Конструктор LEGO Minifigures Минифигурки Серия 21 71029",
+            "price": {
+                "price": 289,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3405595/"
+        },
+        {
+            "id": "3405535",
+            "title": "Конструктор LEGO Classic Прозрачные кубики 11013",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1999,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405535/"
+        },
+        {
+            "id": "3599720",
+            "title": "Конструктор LEGO VIDIYO Folk Fairy BeatBox (Битбокс Феи Фолка) 43110",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 799,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3599720/"
+        },
+        {
+            "id": "3405548",
+            "title": "Конструктор LEGO Friends Органическое кафе Хартлейк-Сити 41444",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 2129,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405548/"
+        },
+        {
+            "id": "3244547",
+            "title": "Конструктор LEGO Minions Миньоны и дом 75551",
+            "price": {
+                "price": 5629,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3244547/"
+        },
+        {
+            "id": "3405639",
+            "title": "Конструктор LEGO Minecraft Дом-свинья 21170",
+            "price": {
+                "price": 5629,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 4699,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405639/"
+        },
+        {
+            "id": "3596888",
+            "title": "Конструктор LEGO City Stunt 60298",
+            "price": {
+                "price": 709,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 629,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596888/"
+        },
+        {
+            "id": "3018843",
+            "title": "Конструктор LEGO BOOST  Набор для конструирования и программирования (17101)",
+            "price": {
+                "price": 16789,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3018843/"
+        },
+        {
+            "id": "3200883",
+            "title": "Конструктор LEGO Disney Frozen Олаф 41169",
+            "price": {
+                "price": 1299,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 649,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3200883/"
+        },
+        {
+            "id": "3777767",
+            "title": "Конструктор LEGO Harry Potter Новогодний календарь 76390",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3777767/"
+        },
+        {
+            "id": "3985290",
+            "title": "Конструктор LEGO Super Heroes Бэтмобиль Тумблер 76240",
+            "price": {
+                "price": 26389,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3985290/"
+        },
+        {
+            "id": "3596758",
+            "title": "Конструктор LEGO DUPLO My First Поезд с цифрами-учимся считать 10954",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596758/"
+        },
+        {
+            "id": "3596844",
+            "title": "Конструктор LEGO Technic Ford F-150 Raptor 42126",
+            "price": {
+                "price": 16789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 10295,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596844/"
+        }
+    ],
+    "SPE": [
+        {
+            "id": "3405527",
+            "title": "Конструктор LEGO DUPLO My First Поезд для животных 10955",
+            "price": {
+                "price": 1909,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1329,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405527/"
+        },
+        {
+            "id": "3596786",
+            "title": "Конструктор LEGO Friends Волшебная акробатика 41686",
+            "price": {
+                "price": 2029,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1299,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596786/"
+        },
+        {
+            "id": "3405588",
+            "title": "Конструктор LEGO City Great Vehicles Отпуск в доме на колесах 60283",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405588/"
+        },
+        {
+            "id": "3187781",
+            "title": "Конструктор LEGO Minecraft Шахта крипера 21155",
+            "price": {
+                "price": 8989,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3187781/"
+        },
+        {
+            "id": "618981",
+            "title": "Конструктор LEGO Classic Строительная пластина зеленого цвета (10700)",
+            "price": {
+                "price": 829,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/618981/"
+        },
+        {
+            "id": "3244569",
+            "title": "Конструктор LEGO Super Mario Приключения вместе с Марио 71360",
+            "price": {
+                "price": 5989,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 3979,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3244569/"
+        },
+        {
+            "id": "4058546",
+            "title": "Конструктор LEGO Disney Princess 43201",
+            "price": {
+                "price": 2029,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/4058546/"
+        },
+        {
+            "id": "3244472",
+            "title": "Конструктор LEGO DUPLO Грузовик и гусеничный экскаватор 10931",
+            "price": {
+                "price": 2109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3244472/"
+        },
+        {
+            "id": "3596713",
+            "title": "Конструктор LEGO Mickey and Friends Магазин мороженого Минни 10773",
+            "price": {
+                "price": 1909,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596713/"
+        },
+        {
+            "id": "3405628",
+            "title": "Конструктор LEGO Ninjago Легендарные битвы: Кай против Армии скелетов 71730",
+            "price": {
+                "price": 949,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405628/"
+        },
+        {
+            "id": "3239916",
+            "title": "Набор для творчества LEGO DOTS Браслет Попугайчики 41912",
+            "price": {
+                "price": 529,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 299,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3239916/"
+        },
+        {
+            "id": "3405596",
+            "title": "Конструктор LEGO Super Heroes Воздушное нападение Вечных 76145",
+            "price": {
+                "price": 1189,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3405596/"
+        },
+        {
+            "id": "3597021",
+            "title": "Конструктор LEGO Star Wars Дуэль на Мандалоре 75310",
+            "price": {
+                "price": 2149,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3597021/"
+        },
+        {
+            "id": "3597052",
+            "title": "Конструктор LEGO Jurassic World Скелет тираннозавра на выставке 76940",
+            "price": {
+                "price": 3349,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3597052/"
+        },
+        {
+            "id": "3597048",
+            "title": "Конструктор LEGO Speed Champions McLaren Elva 76902",
+            "price": {
+                "price": 2149,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3597048/"
+        },
+        {
+            "id": "3405595",
+            "title": "Конструктор LEGO Minifigures Минифигурки Серия 21 71029",
+            "price": {
+                "price": 289,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3405595/"
+        },
+        {
+            "id": "3405535",
+            "title": "Конструктор LEGO Classic Прозрачные кубики 11013",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1999,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405535/"
+        },
+        {
+            "id": "3599720",
+            "title": "Конструктор LEGO VIDIYO Folk Fairy BeatBox (Битбокс Феи Фолка) 43110",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 799,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3599720/"
+        },
+        {
+            "id": "3405548",
+            "title": "Конструктор LEGO Friends Органическое кафе Хартлейк-Сити 41444",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 2129,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405548/"
+        },
+        {
+            "id": "3405639",
+            "title": "Конструктор LEGO Minecraft Дом-свинья 21170",
+            "price": {
+                "price": 5629,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 4699,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3405639/"
+        },
+        {
+            "id": "3596888",
+            "title": "Конструктор LEGO City Stunt 60298",
+            "price": {
+                "price": 709,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 629,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596888/"
+        },
+        {
+            "id": "3200883",
+            "title": "Конструктор LEGO Disney Frozen Олаф 41169",
+            "price": {
+                "price": 1299,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 649,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3200883/"
+        },
+        {
+            "id": "3777767",
+            "title": "Конструктор LEGO Harry Potter Новогодний календарь 76390",
+            "price": {
+                "price": 3109,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3777767/"
+        },
+        {
+            "id": "3985290",
+            "title": "Конструктор LEGO Super Heroes Бэтмобиль Тумблер 76240",
+            "price": {
+                "price": 26389,
+                "currency": "RUB"
+            },
+            "promo-price": null,
+            "link": "https://www.detmir.ru/product/index/id/3985290/"
+        },
+        {
+            "id": "3596758",
+            "title": "Конструктор LEGO DUPLO My First Поезд с цифрами-учимся считать 10954",
+            "price": {
+                "price": 1789,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1499,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596758/"
+        },
+        {
+            "id": "3596714",
+            "title": "Конструктор LEGO Mickey and Friends Космическая ракета Микки и Минни 10774",
+            "price": {
+                "price": 1909,
+                "currency": "RUB"
+            },
+            "promo-price": {
+                "price": 1599,
+                "currency": "RUB"
+            },
+            "link": "https://www.detmir.ru/product/index/id/3596714/"
+        }
+    ]
+}
