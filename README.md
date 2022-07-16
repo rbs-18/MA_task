@@ -4,7 +4,7 @@
 
 Parser for "Detskii mir" shop. Parsing data from category "Lego" from Moscow and St. Petersburg.
 Data creating in src/result/ folder to product.csv file. Data demonstrates in 'id', 'title', 'price, RUB',
-'city', promo_price, RUB, 'link'.
+'city', promo_price, RUB, 'link' groups.
 
 ## Technologies
 
